@@ -140,3 +140,8 @@ vite.config.ts.timestamp-*
 
 videos/
 screenshots/
+node_modules/
+cypress/results/
+cypress/report/
+cypress/videos/
+cypress/screenshots/
